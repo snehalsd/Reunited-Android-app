@@ -46,7 +46,7 @@ public class found extends Activity implements View.OnClickListener {
     private Uri file;
     private ImageView im;
     private String KEY_IMAGE = "image";
-    private String SEND_URL ="http://rakesh-php.azurewebsites.net/new.php";
+    private String SEND_URL ="http://rakesh-php.azurewebsites.net/searchPerson.php";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         // TODO Auto-generated method stub
